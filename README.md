@@ -2,7 +2,7 @@
 
 This repository contains the code snippets from the accompanying blog post: https://hbgl.dev/checking-if-a-php-array-contains-cycles-part-2/
 
-The file [functions.php](https://github.com/hbgl/checking-if-a-php-array-contains-cycles-part-2/blob/main/functions.php) contains are a couple of functions that can detect cyclic arrays to various degrees of success. If you are just looking for a good working implementation, use [is_cyclic_count](https://github.com/hbgl/checking-if-a-php-array-contains-cycles-part-2/blob/main/functions.php#L3).
+The file [functions.php](https://github.com/hbgl/demo-detect-cyclic-arrays-in-php-part-2/blob/main/functions.php) contains are a couple of functions that can detect cyclic arrays to various degrees of success. If you are just looking for a good working implementation, use [is_cyclic_count](https://github.com/hbgl/demo-detect-cyclic-arrays-in-php-part-2/blob/main/functions.php#L3).
 
 ## Running tests
 
