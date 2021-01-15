@@ -1,6 +1,6 @@
 # Detecting cyclic arrays in PHP
 
-This repository contains the code snippets from the accompanying blog post: https://hbgl.dev/checking-if-a-php-array-contains-cycles-part-2/
+This repository contains the code snippets from the accompanying blog post: https://hbgl.dev/detecting-cyclic-arrays-in-php-a-new-approach/
 
 The file [functions.php](https://github.com/hbgl/demo-detecting-cyclic-arrays-in-php-a-new-approach/blob/main/functions.php) contains are a couple of functions that can detect cyclic arrays to various degrees of success. If you are just looking for a good working implementation, use [is_cyclic_count](https://github.com/hbgl/demo-detecting-cyclic-arrays-in-php-a-new-approach/blob/main/functions.php#L3).
 
