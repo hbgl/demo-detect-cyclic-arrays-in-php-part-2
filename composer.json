@@ -1,5 +1,5 @@
 {
-    "name": "hbgl/demo-detect-cyclic-arrays-in-php-part-2",
+    "name": "hbgl/demo-detecting-cyclic-arrays-in-php-a-new-approach",
     "authors": [
         {
             "name": "hbgl",
@@ -9,7 +9,7 @@
     "scripts": {
         "bench": "phpbench run bench.php \"--report=generator:\\\"table\\\",cols:[\\\"subject\\\",\\\"set\\\",\\\"mean\\\",\\\"diff\\\"],sort:{set:\\\"asc\\\",subject:\\\"asc\\\"},break:[\\\"set\\\"]\" --warmup=5 --revs=10",
         "test": "phpunit --testdox test.php",
-        "analyse": "phpstan analyse"
+        "analyze": "phpstan analyse"
     },
     "require": {
         "php": "^7.3|^8.0"
